@@ -1,3 +1,4 @@
+![logo](https://img.sanishtech.com/u/6708027f73fbd6bdae01c50937aa43f8.png)
 <h1 align="center">Hi 👋, I'm Aashu Yadav</h1>
 <h3 align="center">Frontend Web Developer crafting clean, responsive & modern UI</h3>
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/0911758e-c19d-47b5-9433-77eba0cdaa9a" />
